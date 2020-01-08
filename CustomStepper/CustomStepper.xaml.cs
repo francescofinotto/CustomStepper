@@ -12,9 +12,10 @@ namespace TPSoftware.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CustomStepper : Grid
     {
+        public static readonly BindableProperty ValueBindable = BindableProperty.Create("Value", typeof(int), typeof(CustomStepper));
         public int Max { get; set; }
         public int Min { get; set; }
-        public int Value { get; set; }
+        public int CurrentValue { get { return (int)GetValue(ValueBindable); } set { SetValue(ValueBindable, value); } }
 
         public event Action OnValueCanged;
         public CustomStepper()
@@ -24,12 +25,12 @@ namespace TPSoftware.Views
 
         private void ButtonPlus_Clicked(object sender, EventArgs e)
         {
-            Value++;
+            CurrentValue++;
         }
 
         private void ButtonMinus_Clicked(object sender, EventArgs e)
         {
-            Value--;
+            CurrentValue--;
         }
     }
 }

@@ -3,7 +3,6 @@ D:\TPSoftware\CustomStepper\CustomStepper\bin\Debug\netstandard2.0\CustomStepper
 D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\CustomStepper.AssemblyInfoInputs.cache
 D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\CustomStepper.AssemblyInfo.cs
 D:\TPSoftware\CustomStepper\CustomStepper\bin\Debug\netstandard2.0\CustomStepper.pdb
-D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\CustomStepper.csprojAssemblyReference.cache
 D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\CustomStepper.xaml.g.cs
 D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\XamlC.stamp
 D:\TPSoftware\CustomStepper\CustomStepper\obj\Debug\netstandard2.0\CustomStepper.dll

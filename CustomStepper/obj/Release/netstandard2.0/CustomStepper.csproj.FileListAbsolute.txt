@@ -1,0 +1,9 @@
+D:\TPSoftware\CustomStepper\CustomStepper\bin\Release\netstandard2.0\CustomStepper.deps.json
+D:\TPSoftware\CustomStepper\CustomStepper\bin\Release\netstandard2.0\CustomStepper.dll
+D:\TPSoftware\CustomStepper\CustomStepper\bin\Release\netstandard2.0\CustomStepper.pdb
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\CustomStepper.xaml.g.cs
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\CustomStepper.AssemblyInfoInputs.cache
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\CustomStepper.AssemblyInfo.cs
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\XamlC.stamp
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\CustomStepper.dll
+D:\TPSoftware\CustomStepper\CustomStepper\obj\Release\netstandard2.0\CustomStepper.pdb
